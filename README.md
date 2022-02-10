@@ -27,6 +27,8 @@ Base scripts for QB-Core Framework :building_construction:
 - Consumeable foods/beverages/drinks/drugs (sandwich, water_bottle, tosti, beer, vodka etc.)
 - Removal of GTA's default weapons drops
 - Drug effects
+- Drunk effects
+- mini games added - RPS,Dices,Coinflip
 - Removal of GTA's default vehicle spawns (planes, helicopters, emergency vehicles etc.)
 - Removal of GTA's default emergency service npcs
 - Removal of GTA's default wanted system
